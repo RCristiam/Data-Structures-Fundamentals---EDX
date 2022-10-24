@@ -7,6 +7,7 @@
 ## The following base files are available:
 
 ### Week 1
+1. Check brackets in the code
 2. Compute tree height
 
 ### Week 3
