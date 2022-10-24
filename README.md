@@ -7,8 +7,8 @@
 ## The following base files are available:
 
 ### Week 1
-1. Check brackets in the code
-2. Compute tree height
+1. [Check brackets in the code](https://github.com/RCristiam/Data-Structures-Fundamentals---EDX/blob/dfe5d7586785672e40972f1c8a3c8e2e5c366794/week1_basic_data_structures_starters/check_brackets_in_code/check_brackets.cs)
+2. [Compute tree height](https://github.com/RCristiam/Data-Structures-Fundamentals---EDX/blob/dfe5d7586785672e40972f1c8a3c8e2e5c366794/week1_basic_data_structures_starters/tree_height/tree-height.cs)
 
 ### Week 3
-1. Convert array into heap
+1. [Convert array into heap](https://github.com/RCristiam/Data-Structures-Fundamentals---EDX/blob/dfe5d7586785672e40972f1c8a3c8e2e5c366794/week3_priority_queues_and_disjoint_sets_starters/make_heap/build_heap.cs)
