@@ -12,3 +12,4 @@
 
 ### Week 3
 1. [Convert array into heap](https://github.com/RCristiam/Data-Structures-Fundamentals---EDX/blob/dfe5d7586785672e40972f1c8a3c8e2e5c366794/week3_priority_queues_and_disjoint_sets_starters/make_heap/build_heap.cs)
+2. [Job Queue] (https://github.com/RCristiam/Data-Structures-Fundamentals---EDX/blob/77ed5309a40a51fd77dea46eaa802ad2770227e4/week3_priority_queues_and_disjoint_sets_starters/job_queue/job_queue.cs)
